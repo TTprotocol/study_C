@@ -1,0 +1,7 @@
+C:\Users\wnsdu\Desktop\study_C\study_C\bin\Debug\study_C.exe.config
+C:\Users\wnsdu\Desktop\study_C\study_C\bin\Debug\study_C.exe
+C:\Users\wnsdu\Desktop\study_C\study_C\bin\Debug\study_C.pdb
+C:\Users\wnsdu\Desktop\study_C\study_C\obj\Debug\study_C.csproj.CoreCompileInputs.cache
+C:\Users\wnsdu\Desktop\study_C\study_C\obj\Debug\study_C.exe
+C:\Users\wnsdu\Desktop\study_C\study_C\obj\Debug\study_C.pdb
+C:\Users\wnsdu\Desktop\study_C\study_C\obj\Debug\study_C.csproj.AssemblyReference.cache
